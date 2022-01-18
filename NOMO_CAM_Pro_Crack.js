@@ -8,15 +8,14 @@
 更新时间：2022-01-06
 获取帮助：公众号：404Lab 
 电报频道：https://t.me/EnjoyDigitalLife
-使用声明：⚠️此脚本仅供学习与交流，
-        请勿转载与贩卖！⚠️⚠️⚠️
+使用声明：此脚本仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
 
 *******************************
 
 [rewrite_local]
 
 # > NOMO CAM 解锁订阅
-^https?:\/\/nomo\.dafork\.com\/api\/v3\/register\/phone_signin$ url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/NoMoCamProCrack.js
+^https?:\/\/nomo\.dafork\.com\/api\/v3\/register\/phone_signin$ url script-response-body https://raw.githubusercontent.com/HiChen404/QuantumultX/master/NOMO_CAM_Pro_Crack.js
 
 [mitm] 
 
