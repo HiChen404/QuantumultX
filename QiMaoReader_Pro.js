@@ -11,7 +11,7 @@
 *******************************
 [rewrite_local]
 # > 七猫小说(2022.01.18)
-^https?:\/\/(api-\w+|xiaoshuo)\.wtzw\.com\/api\/v\d\/ url script-response-body https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/QiMaoXiaoShuo.js
+^https?:\/\/(api-\w+|xiaoshuo)\.wtzw\.com\/api\/v\d\/ url script-response-body https://raw.githubusercontent.com/HiChen404/QuantumultX/master/QiMaoReader_Pro.js
 
 [mitm] 
 hostname = *.wtzw.com
