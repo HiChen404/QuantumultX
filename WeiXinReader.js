@@ -10,7 +10,7 @@
 *******************************
 [rewrite_local]
 # > 微信读书(2022.01.16)
-^https?:\/\/i\.weread\.qq\.com\/pay\/memberCardSummary url script-response-body https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/WeRead.js
+^https?:\/\/i\.weread\.qq\.com\/pay\/memberCardSummary url script-response-body https://raw.githubusercontent.com/HiChen404/QuantumultX/master/WeiXinReader.js
 [mitm] 
 hostname = i.weread.qq.com,101*.*.*,116.*.*.*,117.*.*.*,120.*.*.*,121.*.*.*,140.*.*.*,183.*.*.*,203*.*.*
 *
