@@ -2,10 +2,9 @@
 
 QuantumultX 脚本收集...
 
-![](https://img.shields.io/github/last-commit/HiChen404/MyWikiSite?label=%E4%B8%8A%E6%AC%A1%E6%9B%B4%E6%96%B0&logo=github&style=for-the-badge)
 ![](https://picgo-1259617372.cos.ap-beijing.myqcloud.com/Picgo/202109051019063.svg)
 
-> 🚀电报频道：https://t.me/EnjoyDigitalLife
+> 🚀电报频道：[数字生活 Digital Life](https://t.me/EnjoyDigitalLife)
 
 ## 这是什么？
 
